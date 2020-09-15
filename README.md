@@ -2,7 +2,7 @@
 
 In order for things to go smoothly we'll follow the workflow I'm going to detail below.
 
-But before, it's important for you to watch [this video](https://www.youtube.com/watch?v=uUuTYDg9XoI)
+But before, it's important for you to watch [this video](https://www.youtube.com/watch?v=OqmSzXDrJBk)
 
 1. Fork the repository by clicking the fork button on the gihtub repo. [Learn how here](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository)
 
